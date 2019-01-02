@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/siwenyu/baidu/issues"
   },
-  "homepage": "https://github.com/siwenyu/baidu#readme"
+  "homepage": "https://github.com/siwenyu/baidu#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
